@@ -1,2 +1,3 @@
 # Yatzy
-Yatzy game using C#. Exam project
+Exam project.
+Yatzy game using C#. 
